@@ -7,8 +7,6 @@ The project that we have undertaken aims to develop a banking system that is cle
 
 <img width="353" alt="image" src="https://github.com/2002kartik12/Bank-Management-system/assets/110666936/475f22fb-7270-4121-aed0-8f4047ca1651">
 
-<img width="231" alt="image" src="https://github.com/2002kartik12/Bank-Management-system/assets/110666936/ca832050-3ad3-4a53-86fc-1136823612bf">
-
 <img width="156" alt="image" src="https://github.com/2002kartik12/Bank-Management-system/assets/110666936/13a8b048-4846-433e-9d48-3302db9bc09c">
 
 <img width="212" alt="image" src="https://github.com/2002kartik12/Bank-Management-system/assets/110666936/cca69b06-eebd-4710-b398-afcb4979b0e1">
